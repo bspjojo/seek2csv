@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "seek2csv",
+  "version": "0.1.0",
+  "description": "Export data from the current page to a CSV file.",
+  "action": {
+    "default_title": "seek2csv",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
